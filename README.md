@@ -17,7 +17,7 @@
 
 
 
-# Colaborador ✨
+# Collaborator✨
 
 <table>
 <table>
