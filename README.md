@@ -7,9 +7,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## The challenge:
- Write a script that creates an array with 10000 random words between 3 and 5 characters, and returns the number of words that are palindromes in that array. Notes: The code needs to be in javascript You’ll need to return just the number of words You have 30 mins, if you run out of time, submit the form anyway.
-
-
+ Write a script that creates an array with 10000 random words between 3 and 5 characters, and returns the number of words that are palindromes in that array. 
 
 ## Technologies used:
  JavaScript
